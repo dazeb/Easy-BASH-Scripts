@@ -20,6 +20,7 @@ sh docker-stack-install.sh
 ## Added Scripts  
 
 docker-stack-install - install the latest Docker, Docker Compose v2 and Portainer.  
-Oneliner installer `curl -sSL https://raw.githubusercontent.com/dazeb/Easy-BASH-Scripts/main/docker-stack-install.sh -o docker-stack-install.sh`  
+Oneliner installer 
+`curl -sSL https://raw.githubusercontent.com/dazeb/Easy-BASH-Scripts/main/docker-stack-install.sh -o docker-stack-install.sh`  
 
 Profit.
