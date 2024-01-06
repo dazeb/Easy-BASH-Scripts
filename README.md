@@ -21,7 +21,7 @@ wget https://raw.githubusercontent.com/dazeb/Easy-BASH-Scripts/main/docker-stack
 chmod +x docker-stack-install.sh
 
 # Run the script
-sh docker-stack-install.sh
+./docker-stack-install.sh
 ```
 ## Added Scripts  
 
